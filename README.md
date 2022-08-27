@@ -1,11 +1,14 @@
 ### hi, i'm aji 👋
-
+---
 i've been on GitHub since 2016, but i only started using it in 2020. hit me up on my socials!
 
-:globe_with_meridians: https://ajiporter.buzz.aero
-:file_folder: https://porfolio.ajiporter.buzz.aero
-Twitter/Instagram: @ajiporter
-
+- 🌐 <a href ="https://ajiporter.buzz.aero">website</a> 
+- 📂 <a href ="https://porfolio.ajiporter.buzz.aero">portfolio</a>
+- 🐦 <a href="https://twitter.com/ajiporter">twitter</a>
+- 📷 <a href="https://instagram.com/ajiporter">instagram</a>
+- 📱 <a href="https://fb.com/ajimaglanque">facebook</a>
+- 🎧 <a href="https://soundcloud.com/ajimaglanque">soundcloud</a>
+- 📹 <a href="https://youtube.com/users/sarahmaglanque">youtube</a>
 <!--
 **ajimaglanque/ajimaglanque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
