@@ -3,7 +3,7 @@
 i've been on GitHub since 2016, but i only started using it in 2020. hit me up on my socials!
 
 - 🌐 <a href ="https://ajiporter.buzz.aero">website</a> 
-- 📂 <a href ="https://porfolio.ajiporter.buzz.aero">portfolio</a>
+- 📂 <a href ="https://portfolio.ajiporter.buzz.aero">portfolio</a>
 - 🐦 <a href="https://twitter.com/ajiporter">twitter</a>
 - 📷 <a href="https://instagram.com/ajiporter">instagram</a>
 - 📱 <a href="https://fb.com/ajimaglanque">facebook</a>
