@@ -1,5 +1,5 @@
 # hi, i'm aji 👋
-**`Software Developer | Computer Science Graduate`**
+**`Software Developer • Computer Science Graduate`**
 
 i never thought i'd actually pursue a career with my undergrad course, but financial needs pushed me to do so 😅 my profile's kind of empty, but i look forward to filling it up with more projects in the future
 
