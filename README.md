@@ -1,7 +1,8 @@
 # hi, i'm aji 👋
 **`Software Developer • Computer Science Graduate`**
 
-i never thought i'd actually pursue a career with my undergrad course, but financial needs pushed me to do so 😅 my profile's kind of empty, but i look forward to filling it up with more projects in the future
+i never thought i'd actually pursue a career with my undergrad course, but it ended up being my best bet for making a living 😅<br />
+my profile's still kind of empty, but i look forward to filling it up with more projects in the future
 
 ## technologies i use
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
