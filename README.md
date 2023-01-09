@@ -14,7 +14,7 @@ my profile's still kind of empty, but i look forward to filling it up with more 
 <br />
 
 ## hit me up on my socials!
-- 🌐 <a href ="https://ajiporter.buzz.aero">website</a> 
+- 🌐 <a href ="https://ajiporter.buzz.aero">website</a> | <a href ="https://ajimaglanque.github.io">alt link</a>
 - 📂 <a href ="https://portfolio.ajiporter.buzz.aero">portfolio</a> | <a href ="https://ajimaglanque.github.io/portfolio">alt link</a>
 - 🐦 <a href="https://twitter.com/ajiporter">twitter</a>
 - 📷 <a href="https://instagram.com/ajiporter">instagram</a>
