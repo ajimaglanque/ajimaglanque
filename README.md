@@ -23,9 +23,9 @@ my profile's still kind of empty, but i look forward to filling it up with more 
 - 📹 <a href="https://youtube.com/users/sarahmaglanque">youtube</a>
 
 ## for nerds
-[![stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ajimaglanque&show_icons=true&theme=react&count_private=true&hide=stars,issues&show_icons=true&include_all_commits=true&custom_title=aji%27s%20stats)](https://github.com/ajimaglanque?tab=repositories)
+[![stats](https://github-readme-stats.vercel.app/api?username=ajimaglanque&show_icons=true&theme=react&count_private=true&hide=stars,issues&show_icons=true&include_all_commits=true&card_width=400&custom_title=aji%27s%20stats)](https://github.com/ajimaglanque?tab=repositories)
 &nbsp;
-[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajimaglanque&theme=react&layout=compact&custom_title=most%20used%20languages)](https://github.com/ajimaglanque?tab=repositories)
+[![languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ajimaglanque&theme=react&layout=compact&card_width=400&custom_title=most%20used%20languages)](https://github.com/ajimaglanque?tab=repositories)
 <!--
 **ajimaglanque/ajimaglanque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
