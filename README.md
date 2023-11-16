@@ -1,5 +1,5 @@
 # hi, i'm aji 👋
-**`Software Developer • Computer Science Graduate`**
+**`Cloud Development Engineer • Computer Science Graduate`**
 
 i never thought i'd actually pursue a career with my undergrad course, but it ended up being my best bet for making a living 😅<br />
 my profile's still kind of empty, but i look forward to filling it up with more projects in the future
