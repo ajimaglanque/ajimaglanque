@@ -16,6 +16,7 @@ my profile's still kind of empty, but i look forward to filling it up with more 
 ## hit me up on my socials!
 - 🌐 <a href ="https://ajimaglanque.github.io">website</a> | <a href ="https://ajiporter.fr.to">alt link</a>
 - 📂 <a href ="https://ajimaglanque.github.io/portfolio">portfolio</a> | <a href ="https://ajiporter.fr.to/portfolio">alt link</a>
+- ✨ <a href="https://linkedin.com/in/aji-maglanque">linkedin</a>
 - 🐦 <a href="https://twitter.com/ajiporter">twitter</a>
 - 📷 <a href="https://instagram.com/ajiporter">instagram</a>
 - 📱 <a href="https://fb.com/ajimaglanque">facebook</a>
